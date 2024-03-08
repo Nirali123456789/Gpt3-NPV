@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gpt3-NPV
 =======
 # Getting Started with Create React App

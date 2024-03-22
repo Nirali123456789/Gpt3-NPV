@@ -1,4 +1,4 @@
-Brillian UI/UX Rich Images GPT-3 Website
+Brilliant UI/UX Rich Images GPT-3 Website
 
  This website based on React. It boasts an intuitive interface, responsive design, and interactive components managed with React Hooks.
 
@@ -6,6 +6,8 @@ Brillian UI/UX Rich Images GPT-3 Website
 React.js: Frontend library for building user interfaces.
 CSS: Styling language for custom design.
 React Hooks: Managing state and side effects efficiently.
+
+
 
 <img width="1507" alt="image" src="https://github.com/Nirali123456789/Gpt3-NPV/assets/90322848/494a29bc-db31-41a4-8c33-68ee866caa9f">
 

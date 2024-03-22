@@ -1,6 +1,6 @@
 Brilliant UI/UX Rich Images GPT-3 Website
 
- This website based on React. It boasts an intuitive interface, responsive design, and interactive components managed with React Hooks.
+ This website based on React js and Typescript. It boasts an intuitive interface, responsive design, and interactive components managed with React Hooks.
 
  Technologies Used
 React.js: Frontend library for building user interfaces.
